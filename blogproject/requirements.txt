@@ -54,7 +54,7 @@ pywin32==223
 PyYAML==3.12
 queuelib==1.5.0
 requests==2.18.4
-Scrapy==1.5.0
+Scrapy==2.6.2
 service-identity==17.0.0
 six==1.10.0
 tablib==0.12.1
